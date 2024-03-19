@@ -1,0 +1,135 @@
+1701358795300	geckodriver	INFO	Listening on 127.0.0.1:5388
+1701358798361	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lokes\\AppData\\Local\\Temp\\rust_mozprofile27lnex"
+1701358799701	geckodriver	INFO	Listening on 127.0.0.1:5396
+1701358802747	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lokes\\AppData\\Local\\Temp\\rust_mozprofilefEvEGR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701358803484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701358803633	Marionette	INFO	Listening on port 5405
+WebDriver BiDi listening on ws://127.0.0.1:5397
+Read port: 5405
+1701358804270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5397/devtools/browser/59f14fd7-f225-49d5-a3ad-b6aaa7dc2950
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/newDesign/js/auth.js?v=1.6, line 639: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/newDesign/js/auth.js?v=1.6, line 1207: ReferenceError: google is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+1701359030188	Marionette	INFO	Stopped listening on port 5405
+Dynamically enable window occlusion 1
+t" "5564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lokes\\AppData\\Local\\Temp\\rust_mozprofileXVxq0y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701358925984	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701358926134	Marionette	INFO	Listening on port 5571
+WebDriver BiDi listening on ws://127.0.0.1:5564
+Read port: 5571
+1701358926470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5564/devtools/browser/30a3b085-485e-4db5-a8b0-fba606dd77fb
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/newDesign/js/auth.js?v=1.6, line 639: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/newDesign/js/auth.js?v=1.6, line 1207: ReferenceError: google is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS, line 359: Script terminated by timeout at:
+Am@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:359:396
+QF@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:578:1062
+aa.Km@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:581:210
+aa.Jm/h/<@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:581:121
+Qj@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:320:342
+dk@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:323:350
+h@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:581:107
+c@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:370:169
+yn@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:371:269
+aa.Jm@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:581:144
+c@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:600:751
+nq@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:411:298
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:414:263
+mq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:412:207
+fq@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:409:789
+hG/<@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:601:153
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:553:126
+aa.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:552:420
+
+1701359022066	Marionette	INFO	Stopped listening on port 5571
+Dynamically enable window occlusion 1
+EX9ZP4VY84:187:451
+e@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:187:48
+f@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:187:243
+md@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:187:651
+OG/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:591:497
+Hp@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:392:231
+aa.Km@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:579:212
+aa.Jm/h/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:565:121
+Qj@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:304:342
+dk@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:307:350
+h@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:565:107
+c@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:354:169
+yn@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:355:269
+aa.Jm@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:565:144
+c@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:584:751
+nq@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:395:298
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:398:263
+mq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:396:207
+fq@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:393:789
+hG/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:585:153
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:537:126
+aa.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:536:420
+
+1701359020900	Marionette	INFO	Stopped listening on port 5663
+Dynamically enable window occlusion 1
+1701359147296	geckodriver	INFO	Listening on 127.0.0.1:5951
+1701359150335	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lokes\\AppData\\Local\\Temp\\rust_mozprofilejZqvlp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701359151328	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701359151493	Marionette	INFO	Listening on port 5959
+WebDriver BiDi listening on ws://127.0.0.1:5952
+Read port: 5959
+1701359151759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5952/devtools/browser/64b13c90-0c6b-4cc3-ba8f-1617c31850cc
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/newDesign/js/auth.js?v=1.6, line 639: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS, line 578: Script terminated by timeout at:
+IF.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:578:119
+aa.flush@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:597:432
+hG/<@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:601:176
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:553:126
+aa.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-SGK4HT4DCS:552:420
+
+1701359225085	Marionette	INFO	Stopped listening on port 5959
+Dynamically enable window occlusion 1
+occlusion 0
+1701359164239	Marionette	INFO	Listening on port 6039
+Read port: 6039
+WebDriver BiDi listening on ws://127.0.0.1:6031
+1701359164326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:6031/devtools/browser/be70e346-81ad-4724-afe6-958e739dc690
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/newDesign/js/auth.js?v=1.6, line 639: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84, line 356: Script terminated by timeout at:
+Cn@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:356:412
+En@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:358:360
+Fn@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:357:242
+Mo@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:380:118
+Lq@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:399:626
+Mq@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:399:506
+aa.Km@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:573:491
+aa.Jm/h/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:565:121
+Qj@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:304:342
+dk@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:307:350
+h@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:565:107
+c@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:354:169
+yn@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:355:269
+aa.Jm@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:565:144
+c@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:584:751
+nq@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:395:298
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:398:263
+mq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:396:207
+fq@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:393:789
+hG/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:585:153
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:537:126
+aa.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-EX9ZP4VY84:536:420
+
+1701359222920	Marionette	INFO	Stopped listening on port 6039
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
